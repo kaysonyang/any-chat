@@ -1,7 +1,7 @@
 # any-chat
 Spring Boot + WebSocket 开发 WEB及时通信工具
 
-#开始体验
+# 开始体验
 1.获取代码
 ```
 git clone https://github.com/ChinaSilence/any-chat.git
@@ -28,6 +28,6 @@ mvn spring-boot:run
 
 ![消息](http://upload-images.jianshu.io/upload_images/3424642-d80db9b88aa598e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#附
+# 附
 作者的另一个开源项目 https://github.com/ChinaSilence/any-video
 看视频效果很不错哦，还能免VIP看VIP视频。
